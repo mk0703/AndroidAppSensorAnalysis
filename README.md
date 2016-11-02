@@ -1,7 +1,8 @@
 # AndroidAppSensorAnalysis
-Androoidの加速度センサをcsvファイルでスマホ上のルートディレクトリの直下にsensor_date.csvとして保存<br>
-それを２点間のP,Qの距離を測定するあwebApp<br>
+apkァイルAでAndrooidの加速度センサをcsvファイルでスマホ上のルートディレクトリの直下にsensor_date.csvとして保存<br>
+それを２点間のP,Qの距離を測定するためのwebApp<br>
 apkファイルはapkフォルダにあるのでそれをスマホにインストールすればデータは取得できる<br>
+サンプルとしてのセンサーデータをsensordateフォルダに
 <br>
 #OverView
 動作環境等<br>
